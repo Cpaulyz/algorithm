@@ -1,6 +1,6 @@
 // https://leetcode-cn.com/problems/similar-string-groups/
 // Created by admin on 2021/1/31.
-//
+// 并查集&字符串
 
 using namespace std;
 #include <string>
