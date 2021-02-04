@@ -1,6 +1,6 @@
 // https://leetcode-cn.com/problems/swim-in-rising-water/
 // Created by admin on 2021/1/30.
-// 和778类似，直接并查集完事
+// 和1631类似，直接并查集完事
 
 using namespace std;
 #include <vector>
