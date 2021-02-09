@@ -20,13 +20,13 @@
     
     * [978. 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/)（2021/2/8）：滑动窗口 or DP
     
-    * [992. K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)（2021/2/9）：
+    * [992. K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)（2021/2/9）：滑动窗口
     
     	* 自己的解法：992.cpp 思想：确定右边界，左边界尝试收缩后还原
     
     		时间按理来说是O(n<sup>2</sup>)，但运行速度极快，超过了100%
     
-    	* 参考答案的解法：992_2.cpp 思想：恰好k个=最多k个-最多(k-1)个，这个思想很值得学习
+    	* [参考答案的解法](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/solution/cong-zui-jian-dan-de-wen-ti-yi-bu-bu-tuo-7f4v/)：992_2.cpp 思想：恰好k个=最多k个-最多(k-1)个，这个思想很值得学习
     
     		时间O(n)，不如自己的解法
 * 并查集
