@@ -41,6 +41,12 @@
     
     * [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)（2021/2/17）一维数组的多维表示法
     
+    * [995. K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)（2021/2/18）贪心+滑动窗口，**极好题**！
+    
+    	* 最初思想：贪心，操作原数组，结果超时（类似该[解题](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/hua-dong-chuang-kou-shi-ben-ti-zui-rong-z403l/)的方法一）
+    	* 优化时间复杂度：滑动窗口，记录翻转次数，不真正做翻转，每位翻转会影响到后K位（类似该[解题](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/hua-dong-chuang-kou-shi-ben-ti-zui-rong-z403l/)的方法二）
+    	* 优化空间复杂度：用原数组来记录翻转次数，不另外开数组（类似该[解题](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/k-lian-xu-wei-de-zui-xiao-fan-zhuan-ci-s-bikk/)的方法二）
+    
 * 并查集
 
     * [1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/)（2021/1/29）我们可以将所有边按照长度进行排序并依次添加进并查集，直到左上角和右下角连通为止
