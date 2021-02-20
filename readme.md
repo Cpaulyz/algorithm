@@ -49,6 +49,8 @@
     	
     * [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)（2021/2/19）滑动窗口+复用原数组优化空间复杂度
     
+    * [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)（2021/2/20）滑动窗口+哈希
+    
 * 并查集
 
     * [1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/)（2021/1/29）我们可以将所有边按照长度进行排序并依次添加进并查集，直到左上角和右下角连通为止
