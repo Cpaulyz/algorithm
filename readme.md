@@ -57,6 +57,8 @@
     
     * [832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/)（2021/2/24）直接遍历，大水题
     
+    * [1178. 猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/)（2021/2/26）位操作+求子集，好题！已发博客[笔记](https://www.cnblogs.com/cpaulyz/p/14453452.html)
+    
 * 并查集
 
     * [1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/)（2021/1/29）我们可以将所有边按照长度进行排序并依次添加进并查集，直到左上角和右下角连通为止
