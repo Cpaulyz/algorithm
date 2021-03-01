@@ -1,15 +1,27 @@
-//
+// https://leetcode-cn.com/problems/burst-balloons/solution/312-chuo-qi-qiu-dong-tai-gui-hua-by-jue-rg2cq/
 // Created by admin on 2021/2/28.
-//
+// TODO:dp解法
 
 using namespace std;
 #include <vector>
 class Solution {
 public:
     int maxCoins(vector<int> &nums) {
-        
+        vector<int> n;
+        n.push_back(1);
+        for (int num:nums){
+            n.push_back(num);
+        }
+        n.push_back(1);
+        vector<vector<int>> dp(nums.size()+2,vector<int>(nums.size()+2));
+        for (int i = n.size()-2; i >=0 ; --i) {
+            for (int j = i+1; j <n.size() ; ++j) {
+
+            }
+        }
+        return  1;
     }
-}
+};
 // 暴力方法。超时
 //class Solution {
 //public:

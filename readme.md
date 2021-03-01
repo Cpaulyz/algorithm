@@ -87,6 +87,8 @@
     * [25. K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)（2021/2/20）206的扩展题
     * [1438. 绝对差不超过限制的最长连续子数组](https://leetcode-cn.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/)（2021/2/21）滑动窗口+单调队列
     * [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)（2021/2/23）哈希+双向链表
+    * [303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)（2021/3/1）前缀和
+    * [307. 区域和检索 - 数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable/)（2021/3/1）线段树，TODO
     
 * 贪心
 
@@ -95,8 +97,8 @@
         * [DP解法](https://leetcode-cn.com/problems/trapping-rain-water/solution/xiang-xi-tong-su-de-si-lu-fen-xi-duo-jie-fa-by-w-8/)
     * [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)（2021/2/28）贪心
     * [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)（2021/2/28）如果使用dp，超时，使用贪心，每次都往下一次可达的最远的跳，解析见https://mp.weixin.qq.com/s/hMrwcLn01BpFzBlsvGE2oQ
-* [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)（2021/2/25）单调栈+哨兵
-  
+	* [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)（2021/2/25）单调栈+哨兵
+    
     * [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)（2021/2/25）单调栈+哨兵，很有意思，复用84题的代码
     
 * 动态规划
