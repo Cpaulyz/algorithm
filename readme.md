@@ -64,6 +64,12 @@
     	* 解法一：滑动窗口，很复杂，[参考](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/solution/xiang-jie-mei-ju-shuang-zhi-zhen-jie-fa-50ri1/)
     	* 解法二：分治 todo 
     
+* 链表
+
+    * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
+    * [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)（2021/3/1）用两次快慢指针，O(1)空间，O(n)时间，重点在于用数学关系推出环长度
+    * [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)（2021/3/1）快慢指针，把题目改成了142，但官方解答更好
+
 * 并查集
 
     * [1631. 最小体力消耗路径](https://leetcode-cn.com/problems/path-with-minimum-effort/)（2021/1/29）我们可以将所有边按照长度进行排序并依次添加进并查集，直到左上角和右下角连通为止
@@ -105,6 +111,19 @@
 * 动态规划
 
     * [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)（2021/2/26）复用原数组dp
+    
+* 树
+
+    * [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)（2021/3/1）层次遍历
+    * [105. 从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)（2020/12/20）递归构造
+    * [106. 从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)（2020/12/20）递归构造
+    * [114. 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/)（2020/12/20）递归，[参考](https://labuladong.gitee.io/algo/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%B3%BB%E5%88%971.html)
+    * [116. 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)（2020/12/20）递归，[参考](https://labuladong.gitee.io/algo/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%B3%BB%E5%88%97/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%B3%BB%E5%88%971.html)
+    * [652. 寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/)（2020/12/26）二叉树序列化
+    * [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)（2020/12/26）递归构造树
+    * [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)（2021/3/1）DFS
+    * [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)（2021/3/1）层次遍历，取右边第一个即可
+    * BST待整理
 
 
 ## 模板
