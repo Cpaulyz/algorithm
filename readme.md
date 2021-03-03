@@ -113,6 +113,7 @@
 * 动态规划
 
     * [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)（2021/2/26）复用原数组dp
+    * [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)（2021/3/3）位运算+dp
     
 * 树
 
@@ -132,8 +133,10 @@
     * [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)（2021/3/1）并查集，也可以BFS/DFS
     * [463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/)(2021/3/1) 遍历，也可以DFS、BFS
     * [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)（2021/3/1）DFS
-    * 
-
+    * [827. 最大人工岛](https://leetcode-cn.com/problems/making-a-large-island/)（2021/3/3）做了两种解法
+	* 笨方法，并查集+遍历
+    	* DFS+记录
+    
     > 在 LeetCode 中，「岛屿问题」是一个系列系列问题，BFS、DFS是统一的解决方法，但是也可以用不同的方法解决
 
 ### 岛屿系列问题
