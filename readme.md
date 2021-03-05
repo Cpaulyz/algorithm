@@ -98,6 +98,7 @@
     * [303. 区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/)（2021/3/1）前缀和
     * [307. 区域和检索 - 数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable/)（2021/3/1）线段树，TODO
     * [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)（2021/3/2）二维前缀和，303拓展题
+    * [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)（2021/3/5）分批导栈
     
 * 贪心
 
@@ -114,6 +115,8 @@
 
     * [931. 下降路径最小和](https://leetcode-cn.com/problems/minimum-falling-path-sum/)（2021/2/26）复用原数组dp
     * [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)（2021/3/3）位运算+dp
+    * [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)（2021/3/4）dp，自己实现了O(n2)的算法
+    	* 标答：[O(nlogn)解法](https://leetcode-cn.com/problems/russian-doll-envelopes/solution/zui-chang-di-zeng-zi-xu-lie-kuo-zhan-dao-er-wei-er/)十分巧妙，写的时候想到了另外一道题，但没想到可以这样改
     
 * 树
 
@@ -151,7 +154,22 @@
 
 [827. 最大人工岛](https://leetcode-cn.com/problems/making-a-large-island/)
 
+### 二分查找
 
+[35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)
+
+[300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+
+难度简单837
+
+分析题意，挖掘题目中隐含的 单调性；
+
+* `while (left < right) `退出循环的时候有` left == right` 成立，因此无需考虑返回 left 还是 right；
+* 始终思考下一轮搜索区间是什么，如果是` [mid, right] `就对应 `left = mid `，如果是` [left, mid - 1] `就对应` right = mid - 1`，是保留 mid 还是 +1+1、-1−1 就在这样的思考中完成；
+* 从一个元素什么时候不是解开始考虑下一轮搜索区间是什么 ，把区间分为 22 个部分（一个部分肯定不存在目标元素，另一个部分有可能存在目标元素），问题会变得简单很多，这是一条 非常有用 的经验；
+* 每一轮区间被划分成 2 部分，理解 区间划分 决定中间数取法（ 无需记忆，需要练习 + 理解 ），在调试的过程中理解 区间和中间数划分的配对关系：
+	* 划分` [left, mid]` 与` [mid + 1, right] `，mid 被分到左边，对应 `int mid = left + (right - left) / 2;`；
+	* 划分` [left, mid - 1] `与` [mid, right]` ，mid 被分到右边，对应` int mid = left + (right - left + 1) / 2;`。
 
 ## 模板
 
