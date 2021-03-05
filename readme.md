@@ -117,6 +117,7 @@
     * [338. 比特位计数](https://leetcode-cn.com/problems/counting-bits/)（2021/3/3）位运算+dp
     * [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)（2021/3/4）dp，自己实现了O(n2)的算法
     	* 标答：[O(nlogn)解法](https://leetcode-cn.com/problems/russian-doll-envelopes/solution/zui-chang-di-zeng-zi-xu-lie-kuo-zhan-dao-er-wei-er/)十分巧妙，写的时候想到了另外一道题，但没想到可以这样改
+    * [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)（2021/3/5）354题的简单版，dp+二分查找，难点在于二分查找
     
 * 树
 
@@ -129,6 +130,7 @@
     * [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)（2020/12/26）递归构造树
     * [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)（2021/3/1）DFS
     * [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)（2021/3/1）层次遍历，取右边第一个即可
+    * [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)（2021/3/5）DFS
     * BST待整理
     
 * 图
