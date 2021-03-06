@@ -64,12 +64,16 @@
     	* 解法一：滑动窗口，很复杂，[参考](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/solution/xiang-jie-mei-ju-shuang-zhi-zhen-jie-fa-50ri1/)
     	* 解法二：分治 todo 
     	
+    * [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)（2021/3/6）遍历，没啥好说的
+    
+    * [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)（2021/3/6）边界条件十分恶心的二分查找
     
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
     * [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)（2021/3/1）用两次快慢指针，O(1)空间，O(n)时间，重点在于用数学关系推出环长度
     * [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)（2021/3/1）快慢指针，把题目改成了142，但官方解答更好
+    * [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)（2021/3/6）n个指针+优先队列，重点在于**优先队列自定义比较函数**
 
 * 并查集
 
@@ -108,8 +112,8 @@
     * [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/)（2021/2/28）贪心
     * [45. 跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/)（2021/2/28）如果使用dp，超时，使用贪心，每次都往下一次可达的最远的跳，解析见https://mp.weixin.qq.com/s/hMrwcLn01BpFzBlsvGE2oQ
 	* [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)（2021/2/25）单调栈+哨兵
-    
     * [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)（2021/2/25）单调栈+哨兵，很有意思，复用84题的代码
+    * [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)（2021/3/6）单调栈+两轮循环
     
 * 动态规划
 
@@ -118,6 +122,7 @@
     * [354. 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/)（2021/3/4）dp，自己实现了O(n2)的算法
     	* 标答：[O(nlogn)解法](https://leetcode-cn.com/problems/russian-doll-envelopes/solution/zui-chang-di-zeng-zi-xu-lie-kuo-zhan-dao-er-wei-er/)十分巧妙，写的时候想到了另外一道题，但没想到可以这样改
     * [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)（2021/3/5）354题的简单版，dp+二分查找，难点在于二分查找
+    * [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)（2021/3/6）dp
     
 * 树
 
@@ -143,6 +148,9 @@
     	* DFS+记录
     
     > 在 LeetCode 中，「岛屿问题」是一个系列系列问题，BFS、DFS是统一的解决方法，但是也可以用不同的方法解决
+
+* 回溯
+	* [46. 全排列](https://leetcode-cn.com/problems/permutations/)（2021/3/6）基本回溯
 
 ### 岛屿系列问题
 
