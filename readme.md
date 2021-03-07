@@ -151,6 +151,9 @@
 
 * 回溯
 	* [46. 全排列](https://leetcode-cn.com/problems/permutations/)（2021/3/6）基本回溯
+	* [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)（2021/3/7）十分经典是回溯算法模板
+	* [698. 划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)（2021/3/7）暴力回溯，技巧是在回溯前进行排序
+	* [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)（2021/3/7）经典回溯，判断回文部分可以用dp优化
 
 ### 岛屿系列问题
 
