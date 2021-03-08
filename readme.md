@@ -6,68 +6,63 @@
 
 * 数组
     * [643. 子数组最大平均数I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)（2021/2/4 ）：滑动窗口
-    
+
     * [888. 公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/)（2021/2/1）：哈希搜索
-    
+
     * [35. 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)（2021/2/1）：二分搜索
-    
+
     * [1128. 等价多米诺骨牌对的数量](https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/)（2021/1/26）：哈希搜索
-    
+
     * [1208. 尽可能使字符串相等](https://leetcode-cn.com/problems/get-equal-substrings-within-budget/)（2021/2/5）：滑动窗口
-    
+
     * [1423. 可获得的最大点数](https://leetcode-cn.com/problems/maximum-points-you-can-obtain-from-cards/)（2021/2/6）：滑动窗口
-    
+
     * [665. 非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/)（2021/2/7）：遍历+判断修改
-    
+
     * [978. 最长湍流子数组](https://leetcode-cn.com/problems/longest-turbulent-subarray/)（2021/2/8）：滑动窗口 or DP
-    
+
     * [992. K 个不同整数的子数组](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/)（2021/2/9）：滑动窗口
-    
+
     	* 自己的解法：992.cpp 思想：确定右边界，左边界尝试收缩后还原
-    
+
     		时间按理来说是O(n<sup>2</sup>)，但运行速度极快，超过了100%
-    
+
     	* [参考答案的解法](https://leetcode-cn.com/problems/subarrays-with-k-different-integers/solution/cong-zui-jian-dan-de-wen-ti-yi-bu-bu-tuo-7f4v/)：992_2.cpp 思想：恰好k个=最多k个-最多(k-1)个，这个思想很值得学习
-    
+
     		时间O(n)，不如自己的解法
     	
     * [119. 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii/)（2021/2/12）直接迭代计算
-    
+
     * [448. 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/)（2021/2/13）原地修改数组，取模
-    
+
     * [561. 数组拆分 I](https://leetcode-cn.com/problems/array-partition-i/)（2021/2/16）排序，超简单
-    
+
     * [566. 重塑矩阵](https://leetcode-cn.com/problems/reshape-the-matrix/)（2021/2/17）一维数组的多维表示法
-    
+
     * [995. K 连续位的最小翻转次数](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/)（2021/2/18）贪心+滑动窗口，**极好题**！
-    
+
     	* 最初思想：贪心，操作原数组，结果超时（类似该[解题](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/hua-dong-chuang-kou-shi-ben-ti-zui-rong-z403l/)的方法一）
     	* 优化时间复杂度：滑动窗口，记录翻转次数，不真正做翻转，每位翻转会影响到后K位（类似该[解题](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/hua-dong-chuang-kou-shi-ben-ti-zui-rong-z403l/)的方法二）
     	* 优化空间复杂度：用原数组来记录翻转次数，不另外开数组（类似该[解题](https://leetcode-cn.com/problems/minimum-number-of-k-consecutive-bit-flips/solution/k-lian-xu-wei-de-zui-xiao-fan-zhuan-ci-s-bikk/)的方法二）
     	
     * [1004. 最大连续1的个数 III](https://leetcode-cn.com/problems/max-consecutive-ones-iii/)（2021/2/19）滑动窗口+复用原数组优化空间复杂度
-    
+
     * [697. 数组的度](https://leetcode-cn.com/problems/degree-of-an-array/)（2021/2/20）滑动窗口+哈希
-    
+
     * [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)（2021/2/20）快排选择+随机选择pivot
-    
+
     * [766. 托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/)（2021/2/22）遍历，大水题
-    
+
     * [1052. 爱生气的书店老板](https://leetcode-cn.com/problems/grumpy-bookstore-owner/)（2021/2/23）固定长度的滑动窗口
-    
+
     * [832. 翻转图像](https://leetcode-cn.com/problems/flipping-an-image/)（2021/2/24）直接遍历，大水题
-    
+
     * [1178. 猜字谜](https://leetcode-cn.com/problems/number-of-valid-words-for-each-puzzle/)（2021/2/26）位操作+求子集，好题！已发博客[笔记](https://www.cnblogs.com/cpaulyz/p/14453452.html)
-    
-    * [395. 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)（2021/2/27）
-    
-    	* 解法一：滑动窗口，很复杂，[参考](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/solution/xiang-jie-mei-ju-shuang-zhi-zhen-jie-fa-50ri1/)
-    	* 解法二：分治 todo 
-    	
+
     * [54. 螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)（2021/3/6）遍历，没啥好说的
-    
+
     * [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)（2021/3/6）边界条件十分恶心的二分查找
-    
+
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
@@ -90,6 +85,10 @@
     * [567. 字符串的排列](https://leetcode-cn.com/problems/permutation-in-string/)（2021/2/10）：滑动窗口
     * [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)（2021/2/20）滑动窗口
     * [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)（2021/3/1）Trie字典树
+    * [395. 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)（2021/2/27）
+    	* 解法一：滑动窗口，很复杂，[参考](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/solution/xiang-jie-mei-ju-shuang-zhi-zhen-jie-fa-50ri1/)
+    	* 解法二：分治 todo 
+    * [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)（2021/3/8）直接遍历就完事了
     
 * 数据结构
 
@@ -123,6 +122,8 @@
     	* 标答：[O(nlogn)解法](https://leetcode-cn.com/problems/russian-doll-envelopes/solution/zui-chang-di-zeng-zi-xu-lie-kuo-zhan-dao-er-wei-er/)十分巧妙，写的时候想到了另外一道题，但没想到可以这样改
     * [300. 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)（2021/3/5）354题的简单版，dp+二分查找，难点在于二分查找
     * [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)（2021/3/6）dp
+    * [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)（2021/3/7）dp，但其实有更好的中心扩展解法
+    * [[字节2019编程题-5]毕业旅行问题](https://www.nowcoder.com/questionTerminal/3d1adf0f16474c90b27a9954b71d125d)（2021/3/8）尝试使用回溯，超时。应该使用dp，极难！！！！[参考](https://blog.csdn.net/weixin_42490152/article/details/100105019)
     
 * 树
 
@@ -144,8 +145,9 @@
     * [463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/)(2021/3/1) 遍历，也可以DFS、BFS
     * [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)（2021/3/1）DFS
     * [827. 最大人工岛](https://leetcode-cn.com/problems/making-a-large-island/)（2021/3/3）做了两种解法
-	* 笨方法，并查集+遍历
+		* 笨方法，并查集+遍历
     	* DFS+记录
+    * [815. 公交路线](https://leetcode-cn.com/problems/bus-routes/)（2021/3/7）BFS
     
     > 在 LeetCode 中，「岛屿问题」是一个系列系列问题，BFS、DFS是统一的解决方法，但是也可以用不同的方法解决
 

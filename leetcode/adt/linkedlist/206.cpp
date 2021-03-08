@@ -13,33 +13,33 @@ struct ListNode {
 class Solution {
 public:
     // 迭代版本
-//    ListNode *reverseList(ListNode *head) {
-//        if(head==NULL){
-//            return NULL;
-//        }
-//        ListNode* pre = NULL;
-//        ListNode* newhead = head;
-//        while (newhead->next!=NULL){
-//            ListNode* tmp = newhead->next;
-//            newhead->next = pre;
-//            pre = newhead;
-//            newhead = tmp;
-//        }
-//        newhead->next = pre;
-//        return newhead;
-//    }
-
-    // 递归版本
     ListNode *reverseList(ListNode *head) {
         if(head==NULL){
             return NULL;
-        }else if(head->next==NULL){
-            return head;
         }
+        ListNode* pre = NULL;
         ListNode* newhead = head;
-        ListNode* nxt = reverseList(head->next);
-        newhead->next->next = newhead;
-        newhead->next=NULL;
+        while (newhead->next!=NULL){
+            ListNode* tmp = newhead->next;
+            newhead->next = pre;
+            pre = newhead;
+            newhead = tmp;
+        }
+        newhead->next = pre;
         return newhead;
     }
+
+    // 递归版本
+//    ListNode *reverseList(ListNode *head) {
+//        if(head==NULL){
+//            return NULL;
+//        }else if(head->next==NULL){
+//            return head;
+//        }
+//        ListNode* newhead = head;
+//        ListNode* nxt = reverseList(head->next);
+//        newhead->next->next = newhead;
+//        newhead->next=NULL;
+//        return newhead;
+//    }
 };
