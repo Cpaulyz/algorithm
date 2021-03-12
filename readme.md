@@ -63,6 +63,10 @@
 
     * [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)（2021/3/6）边界条件十分恶心的二分查找
 
+    * [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)（2021/3/12）遍历
+    
+    * [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)（2021/3/12）双指针，两边往中间走
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
@@ -92,6 +96,7 @@
     * [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)（2021/3/9）栈操作
     * [224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator/)（2021/3/10）双栈
     * [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)（2021/3/11）哨兵+双栈
+    * [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)（2021/3/12）找规律遍历
     
 * 数据结构
 
