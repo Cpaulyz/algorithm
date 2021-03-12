@@ -91,6 +91,7 @@
     * [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)（2021/3/8）直接遍历就完事了
     * [1047. 删除字符串中的所有相邻重复项](https://leetcode-cn.com/problems/remove-all-adjacent-duplicates-in-string/)（2021/3/9）栈操作
     * [224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator/)（2021/3/10）双栈
+    * [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)（2021/3/11）哨兵+双栈
     
 * 数据结构
 
@@ -126,6 +127,7 @@
     * [1143. 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)（2021/3/6）dp
     * [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)（2021/3/7）dp，但其实有更好的中心扩展解法
     * [[字节2019编程题-5]毕业旅行问题](https://www.nowcoder.com/questionTerminal/3d1adf0f16474c90b27a9954b71d125d)（2021/3/8）尝试使用回溯，超时。应该使用dp，极难！！！！[参考](https://blog.csdn.net/weixin_42490152/article/details/100105019)
+    * [879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)（2021/3/11）阿里笔试题，DP 01背包升级版，不会写
     
 * 树
 
@@ -139,6 +141,7 @@
     * [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)（2021/3/1）DFS
     * [199. 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/)（2021/3/1）层次遍历，取右边第一个即可
     * [113. 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii/)（2021/3/5）DFS
+    * [331. 验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/)（2021/3/12）反向遍历+栈+状态压缩
     * BST待整理
     
 * 图
