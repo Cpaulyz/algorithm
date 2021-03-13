@@ -110,6 +110,7 @@
     * [307. 区域和检索 - 数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable/)（2021/3/1）线段树，TODO
     * [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)（2021/3/2）二维前缀和，303拓展题
     * [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)（2021/3/5）分批导栈
+    * [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)（2021/3/13）和正常的反转链表差不多
     
 * 贪心
 
