@@ -67,7 +67,13 @@
     
     * [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)（2021/3/12）双指针，两边往中间走
     
+    	* 移动矮的指针
+    
+    		因为如果移动高指针，那么面积一定变小
+    
     * [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/)（2021/3/16）模拟循环
+    
+    * [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)（2021/3/16）双指针解法，左右往中间缩，总是移动较矮的指针
     
 * 链表
 
