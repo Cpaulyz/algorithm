@@ -77,6 +77,8 @@
     
     * [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)（2021/3/21）复用原数组
     
+    * [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)（2021/3/21）原数组置换，练习降低空间、时间复杂度的好题！
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
@@ -108,6 +110,7 @@
     * [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)（2021/3/11）哨兵+双栈
     * [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)（2021/3/12）找规律遍历
     * [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)（2021/3/21）栈
+    * [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)（2021/3/21）回溯
     
 * 数据结构
 
