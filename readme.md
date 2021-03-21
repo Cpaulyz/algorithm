@@ -75,6 +75,8 @@
     
     * [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)（2021/3/16）双指针解法，左右往中间缩，总是移动较矮的指针
     
+    * [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)（2021/3/21）复用原数组
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
@@ -105,6 +107,7 @@
     * [224. 基本计算器](https://leetcode-cn.com/problems/basic-calculator/)（2021/3/10）双栈
     * [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)（2021/3/11）哨兵+双栈
     * [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)（2021/3/12）找规律遍历
+    * [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)（2021/3/21）栈
     
 * 数据结构
 
@@ -142,6 +145,7 @@
     * [5. 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)（2021/3/7）dp，但其实有更好的中心扩展解法
     * [[字节2019编程题-5]毕业旅行问题](https://www.nowcoder.com/questionTerminal/3d1adf0f16474c90b27a9954b71d125d)（2021/3/8）尝试使用回溯，超时。应该使用dp，极难！！！！[参考](https://blog.csdn.net/weixin_42490152/article/details/100105019)
     * [879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)（2021/3/11）阿里笔试题，DP 01背包升级版，不会写
+    * [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)（2021/3/17）dp
     
 * 树
 
