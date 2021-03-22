@@ -79,6 +79,8 @@
     
     * [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)（2021/3/21）原数组置换，练习降低空间、时间复杂度的好题！
     
+    * [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/)（2021/3/22）变着花样遍历
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
@@ -182,6 +184,11 @@
 	* [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)（2021/3/7）十分经典是回溯算法模板
 	* [698. 划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)（2021/3/7）暴力回溯，技巧是在回溯前进行排序
 	* [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)（2021/3/7）经典回溯，判断回文部分可以用dp优化
+	* [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)（2021/3/22）排序+回溯，因为原数组有重复，需要排序后判断是否可进入回溯
+	
+* 位运算
+
+    * [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)（2021/3/22）
 
 ### 岛屿系列问题
 
