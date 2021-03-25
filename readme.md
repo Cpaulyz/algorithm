@@ -87,6 +87,7 @@
     * [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)（2021/3/1）用两次快慢指针，O(1)空间，O(n)时间，重点在于用数学关系推出环长度
     * [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)（2021/3/1）快慢指针，把题目改成了142，但官方解答更好
     * [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)（2021/3/6）n个指针+优先队列，重点在于**优先队列自定义比较函数**
+    * [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)（2021/3/25）判断nullptr比较多
 
 * 并查集
 
@@ -127,6 +128,7 @@
     * [304. 二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/)（2021/3/2）二维前缀和，303拓展题
     * [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)（2021/3/5）分批导栈
     * [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)（2021/3/13）和正常的反转链表差不多
+    * [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)（2021/3/23）DFS
     
 * 贪心
 
@@ -138,6 +140,7 @@
 	* [84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)（2021/2/25）单调栈+哨兵
     * [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)（2021/2/25）单调栈+哨兵，很有意思，复用84题的代码
     * [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)（2021/3/6）单调栈+两轮循环
+    * [456. 132 模式](https://leetcode-cn.com/problems/132-pattern/)（2021/3/25）单调栈，有点难，注意理解！！！
     
 * 动态规划
 
