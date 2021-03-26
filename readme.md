@@ -88,6 +88,7 @@
     * [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)（2021/3/1）快慢指针，把题目改成了142，但官方解答更好
     * [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)（2021/3/6）n个指针+优先队列，重点在于**优先队列自定义比较函数**
     * [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)（2021/3/25）判断nullptr比较多
+    * [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)（2021/3/26）上面一题的简化版
 
 * 并查集
 
