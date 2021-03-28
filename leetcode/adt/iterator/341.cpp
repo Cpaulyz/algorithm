@@ -1,6 +1,6 @@
 // https://leetcode-cn.com/problems/flatten-nested-list-iterator/
 // Created by admin on 2021/3/23.
-//
+// DFS组合迭代器
 using namespace std;
 #include <vector>
 

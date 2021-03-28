@@ -89,6 +89,7 @@
     * [23. 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)（2021/3/6）n个指针+优先队列，重点在于**优先队列自定义比较函数**
     * [82. 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)（2021/3/25）判断nullptr比较多
     * [83. 删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/)（2021/3/26）上面一题的简化版
+    * [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)（2021/3/28）1.5次遍历
 
 * 并查集
 
@@ -130,6 +131,9 @@
     * [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)（2021/3/5）分批导栈
     * [92. 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/)（2021/3/13）和正常的反转链表差不多
     * [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)（2021/3/23）DFS
+    * [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)（2021/3/28）
+    	* 方法一：直接中序遍历，保存数组，扁平化处理
+    	* 方法二：二叉树中序遍历迭代版
     
 * 贪心
 
