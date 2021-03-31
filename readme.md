@@ -195,6 +195,7 @@
 	* [698. 划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/)（2021/3/7）暴力回溯，技巧是在回溯前进行排序
 	* [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)（2021/3/7）经典回溯，判断回文部分可以用dp优化
 	* [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)（2021/3/22）排序+回溯，因为原数组有重复，需要排序后判断是否可进入回溯
+	* [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)（2021/3/31）回溯，重点在于去重
 	
 * 位运算
 
