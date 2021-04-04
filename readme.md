@@ -162,6 +162,7 @@
     * [[字节2019编程题-5]毕业旅行问题](https://www.nowcoder.com/questionTerminal/3d1adf0f16474c90b27a9954b71d125d)（2021/3/8）尝试使用回溯，超时。应该使用dp，极难！！！！[参考](https://blog.csdn.net/weixin_42490152/article/details/100105019)
     * [879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)（2021/3/11）阿里笔试题，DP 01背包升级版，不会写
     * [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)（2021/3/17）dp
+    * [781. 森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/)（2021/4/4）贪心。据说是华为3.31笔试题。
     
 * 树
 
