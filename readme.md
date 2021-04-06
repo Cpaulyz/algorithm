@@ -85,6 +85,8 @@
     
     * [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)（2021/4/5）逆序遍历
     
+    * [80. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)（2021/4/6）快慢双指针
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
