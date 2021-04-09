@@ -91,6 +91,8 @@
     
     * [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)（2021/4/8）麻烦的二分查找
     
+    * [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)（2021/4/9）二分查找变式
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
