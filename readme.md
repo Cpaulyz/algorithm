@@ -173,6 +173,7 @@
     * [879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)（2021/3/11）阿里笔试题，DP 01背包升级版，不会写
     * [115. 不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)（2021/3/17）dp
     * [781. 森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/)（2021/4/4）贪心。据说是华为3.31笔试题。
+    * [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)（2021/4/11）三指针dp
     
 * 树
 
@@ -212,6 +213,13 @@
 * 位运算
 
     * [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)（2021/3/22）
+    
+* 数学
+
+    * [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)（2021/4/11）数学题，分解质因数
+    * [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)（2021/4/11）[参考](https://leetcode-cn.com/problems/ugly-number-ii/solution/chou-shu-ii-by-leetcode-solution-uoqd/)
+        * 解法一：三指针dp（非常妙！！！）
+        * 解法二：堆
 
 ### 岛屿系列问题
 
