@@ -93,6 +93,8 @@
     
     * [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)（2021/4/9）二分查找变式
     
+    * [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)（2021/4/17）滑动窗口，精髓在于桶排序，极妙！
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
