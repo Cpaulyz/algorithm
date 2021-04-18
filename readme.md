@@ -95,6 +95,8 @@
     
     * [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)（2021/4/17）滑动窗口，精髓在于桶排序，极妙！
     
+    * [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)（2021/4/18）快慢双指针
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
