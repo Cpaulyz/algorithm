@@ -181,6 +181,7 @@
     * [781. 森林中的兔子](https://leetcode-cn.com/problems/rabbits-in-forest/)（2021/4/4）贪心。据说是华为3.31笔试题。
     * [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)（2021/4/11）三指针dp
     * [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/)（2021/4/16）三维dp
+    * [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)（2021/4/21）普普通通的dp
     
 * 树
 
