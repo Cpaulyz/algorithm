@@ -184,6 +184,7 @@
     * [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)（2021/4/11）三指针dp
     * [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/)（2021/4/16）三维dp
     * [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)（2021/4/21）普普通通的dp
+    * [368. 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/)（2021/4/23）排序dp，自己写出了最优解！！ 时间O(n2) 空间O(n)
     
 * 树
 
