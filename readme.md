@@ -101,6 +101,8 @@
     
     * [363. 矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)（2021/4/22）固定左右区间，以区间内的rowSum，计算最大小于k的连续和
     
+    * [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)（2021/4/27）
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
@@ -185,6 +187,7 @@
     * [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/)（2021/4/16）三维dp
     * [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)（2021/4/21）普普通通的dp
     * [368. 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/)（2021/4/23）排序dp，自己写出了最优解！！ 时间O(n2) 空间O(n)
+    * [403. 青蛙过河](https://leetcode-cn.com/problems/frog-jump/)（2021/4/29）hard；dp，时空O(n2)，`dp[i][j]`表示可以从stones[j]跳到stones[i]
     
 * 树
 
