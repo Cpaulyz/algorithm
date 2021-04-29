@@ -101,7 +101,12 @@
     
     * [363. 矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)（2021/4/22）固定左右区间，以区间内的rowSum，计算最大小于k的连续和
     
-    * [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)（2021/4/27）
+    * [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)（2021/4/27）直接用了遍历搜索，可以AC，可以二分查找优化
+    
+    * [633. 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)（2021/4/29）
+    
+    	* 暴力sqrt
+    	* [双指针](https://leetcode-cn.com/problems/sum-of-square-numbers/solution/shuang-zhi-zhen-de-ben-zhi-er-wei-ju-zhe-ebn3/)
     
 * 链表
 
