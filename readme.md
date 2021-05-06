@@ -196,7 +196,8 @@
     * [87. 扰乱字符串](https://leetcode-cn.com/problems/scramble-string/)（2021/4/16）三维dp
     * [91. 解码方法](https://leetcode-cn.com/problems/decode-ways/)（2021/4/21）普普通通的dp
     * [368. 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/)（2021/4/23）排序dp，自己写出了最优解！！ 时间O(n2) 空间O(n)
-    * [403. 青蛙过河](https://leetcode-cn.com/problems/frog-jump/)（2021/4/29）hard；dp，时空O(n2)，`dp[i][j]`表示可以从stones[j]跳到stones[i]
+    * [403. 青蛙过河](https://leetcode-cn.com/problems/frog-jump/)（2021/4/29）hard；dp，时空O(n2)，`dp[i][j]`表示可以从`stones[j]`跳到`stones[i]`
+    * [740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)（2021/5/6）动态规划 `dp[i][j] `表示选择0..i里面,j=1代表选i,j=0代表不选j
     
 * 树
 
@@ -246,6 +247,7 @@
         * 解法一：三指针dp（非常妙！！！）
         * 解法二：堆
     * [179. 最大数](https://leetcode-cn.com/problems/largest-number/)（2021/4/12）难点在于排序，要求两个整数 x,y 如何拼接得到结果更大时，就想到先转字符串，然后比较 x+y 和 y+x
+    * [1720. 解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/)（2021/5/6）遍历异或，简单
 
 ### 岛屿系列问题
 
@@ -306,3 +308,5 @@ https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/solution/y
 [312. 戳气球](https://leetcode-cn.com/problems/burst-balloons/)
 
 https://leetcode-cn.com/problems/implement-strstr/ KMP
+
+[1473. 粉刷房子 III](https://leetcode-cn.com/problems/paint-house-iii/)
