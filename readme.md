@@ -248,6 +248,7 @@
         * 解法二：堆
     * [179. 最大数](https://leetcode-cn.com/problems/largest-number/)（2021/4/12）难点在于排序，要求两个整数 x,y 如何拼接得到结果更大时，就想到先转字符串，然后比较 x+y 和 y+x
     * [1720. 解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/)（2021/5/6）遍历异或，简单
+    * [1486. 数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/)（2021/5/7）无脑遍历，简单
 
 ### 岛屿系列问题
 
