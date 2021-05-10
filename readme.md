@@ -215,6 +215,7 @@
     * BST待整理
     * [783. 二叉搜索树节点最小距离](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/)（2021/4/14）中序遍历
     * [938. 二叉搜索树的范围和](https://leetcode-cn.com/problems/range-sum-of-bst/)（2021/4/27）中序+剪枝
+    * [872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)(2021/5/10)顺序找叶子节点，dfs
     
 * 图
 
