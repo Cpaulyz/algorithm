@@ -251,6 +251,7 @@
     * [1720. 解码异或后的数组](https://leetcode-cn.com/problems/decode-xored-array/)（2021/5/6）遍历异或，简单
     * [1486. 数组异或操作](https://leetcode-cn.com/problems/xor-operation-in-an-array/)（2021/5/7）无脑遍历，简单
     * [1734. 解码异或后的排列](https://leetcode-cn.com/problems/decode-xored-permutation/)（2021/5/11）根据奇数条件，异或得到一个数，然后就很简单了
+    * [1310. 子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/)（2021/5/12）记忆化搜索
 
 ### 岛屿系列问题
 
