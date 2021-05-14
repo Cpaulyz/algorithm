@@ -198,6 +198,7 @@
     * [368. 最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/)（2021/4/23）排序dp，自己写出了最优解！！ 时间O(n2) 空间O(n)
     * [403. 青蛙过河](https://leetcode-cn.com/problems/frog-jump/)（2021/4/29）hard；dp，时空O(n2)，`dp[i][j]`表示可以从`stones[j]`跳到`stones[i]`
     * [740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)（2021/5/6）动态规划 `dp[i][j] `表示选择0..i里面,j=1代表选i,j=0代表不选j
+    * [1269. 停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)（2021/5/14）轻松拿下hard！
     
 * 树
 
