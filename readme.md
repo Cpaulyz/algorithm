@@ -147,6 +147,7 @@
     * [6. Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion/)（2021/3/12）找规律遍历
     * [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)（2021/3/21）栈
     * [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)（2021/3/21）回溯
+    * [12. 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/)（2021/5/14）难度不大
     
 * 数据结构
 
