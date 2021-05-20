@@ -167,6 +167,7 @@
     * [173. 二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/)（2021/3/28）
     	* 方法一：直接中序遍历，保存数组，扁平化处理
     	* 方法二：二叉树中序遍历迭代版
+    * [692. 前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/)（2021/5/20）哈希+优先队列，**自定义比较函数**
     
 * 贪心
 
