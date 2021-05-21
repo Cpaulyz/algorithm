@@ -202,6 +202,9 @@
     * [403. 青蛙过河](https://leetcode-cn.com/problems/frog-jump/)（2021/4/29）hard；dp，时空O(n2)，`dp[i][j]`表示可以从`stones[j]`跳到`stones[i]`
     * [740. 删除并获得点数](https://leetcode-cn.com/problems/delete-and-earn/)（2021/5/6）动态规划 `dp[i][j] `表示选择0..i里面,j=1代表选i,j=0代表不选j
     * [1269. 停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)（2021/5/14）轻松拿下hard！
+    * [1035. 不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/)（2021/5/21）`dp[i][j] `表示 num1[0:i],num2[0:j]中的最大连线数。迁移函数需要画图理解，算是好题！
+    
+    
     
 * 树
 
