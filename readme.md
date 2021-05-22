@@ -262,6 +262,7 @@
     * [1310. 子数组异或查询](https://leetcode-cn.com/problems/xor-queries-of-a-subarray/)（2021/5/12）记忆化搜索
     * [1442. 形成两个异或相等数组的三元组数目](https://leetcode-cn.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/)（2021/5/18）根据奇数条件，异或得到一个数，然后就很简单了
     * [1738. 找出第 K 大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/)（2021/5/19）前缀异或+优先队列
+    * [810. 黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/)（2021/5/22）硬模拟，但更好的解法是[数学归纳](https://leetcode-cn.com/problems/chalkboard-xor-game/solution/hei-ban-yi-huo-you-xi-by-leetcode-soluti-eb0c/)
 
 ### 岛屿系列问题
 
