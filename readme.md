@@ -204,6 +204,7 @@
     * [1269. 停在原地的方案数](https://leetcode-cn.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/)（2021/5/14）轻松拿下hard！
     * [1035. 不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/)（2021/5/21）`dp[i][j] `表示 num1[0:i],num2[0:j]中的最大连线数。迁移函数需要画图理解，算是好题！
     * [664. 奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/)（2021/5/24）区间dp，转移函数不好想
+    * [1787. 使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/)(2021/5/25) dp异或，难
     
     
     
