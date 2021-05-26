@@ -149,6 +149,7 @@
     * [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)（2021/3/21）回溯
     * [12. 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/)（2021/5/14）难度不大
     * [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)（2021/5/15）循环判断即可
+    * [1190. 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)（2021/5/26）括号处理+模拟
     
 * 数据结构
 
