@@ -207,8 +207,6 @@
     * [664. 奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/)（2021/5/24）区间dp，转移函数不好想
     * [1787. 使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/)(2021/5/25) dp异或，难
     
-    
-    
 * 树
 
     * [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)（2021/3/1）层次遍历
@@ -267,6 +265,7 @@
     * [1738. 找出第 K 大的异或坐标值](https://leetcode-cn.com/problems/find-kth-largest-xor-coordinate-value/)（2021/5/19）前缀异或+优先队列
     * [810. 黑板异或游戏](https://leetcode-cn.com/problems/chalkboard-xor-game/)（2021/5/22）硬模拟，但更好的解法是[数学归纳](https://leetcode-cn.com/problems/chalkboard-xor-game/solution/hei-ban-yi-huo-you-xi-by-leetcode-soluti-eb0c/)
     * [1707. 与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/)(2021/5/23)hard，字典树+懒加载思想
+    * [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)（2021/5/27）异或遍历，水题
 
 ### 岛屿系列问题
 
