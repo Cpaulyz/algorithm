@@ -112,6 +112,8 @@
     
     * [554. 砖墙](https://leetcode-cn.com/problems/brick-wall/)（2021/5/4）哈希表，时空O(mn)
     
+    * [1074. 元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/)（2021/5/29）前缀和+哈希表，用边限制，可参考363，好题！！
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
