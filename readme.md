@@ -212,6 +212,7 @@
     * [1035. 不相交的线](https://leetcode-cn.com/problems/uncrossed-lines/)（2021/5/21）`dp[i][j] `表示 num1[0:i],num2[0:j]中的最大连线数。迁移函数需要画图理解，算是好题！
     * [664. 奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/)（2021/5/24）区间dp，转移函数不好想
     * [1787. 使所有区间的异或结果为零](https://leetcode-cn.com/problems/make-the-xor-of-all-segments-equal-to-zero/)(2021/5/25) dp异或，难
+    * [968. 监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras/)（2021/6/3）树形dp，用记忆化搜索，否则会超时
     
 * 树
 
