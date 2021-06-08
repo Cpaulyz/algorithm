@@ -216,6 +216,7 @@
     * [968. 监控二叉树](https://leetcode-cn.com/problems/binary-tree-cameras/)（2021/6/3）树形dp，用记忆化搜索，否则会超时
     * [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)（2021/6/6）三维dp的背包问题
     * [494. 目标和](https://leetcode-cn.com/problems/target-sum/)（2021/6/7）dp，类似背包问题
+    * [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)（2021/6/8）背包问题dp，难在问题转换
     
 * 树
 
