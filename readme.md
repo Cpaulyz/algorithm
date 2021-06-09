@@ -217,6 +217,7 @@
     * [474. 一和零](https://leetcode-cn.com/problems/ones-and-zeroes/)（2021/6/6）三维dp的背包问题
     * [494. 目标和](https://leetcode-cn.com/problems/target-sum/)（2021/6/7）dp，类似背包问题
     * [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)（2021/6/8）背包问题dp，难在问题转换
+    * [879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)（2021/6/9）三维的背包问题，现在会写了
     
 * 树
 
