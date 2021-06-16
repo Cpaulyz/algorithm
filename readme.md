@@ -221,6 +221,7 @@
     * [1049. 最后一块石头的重量 II](https://leetcode-cn.com/problems/last-stone-weight-ii/)（2021/6/8）背包问题dp，难在问题转换
     * [879. 盈利计划](https://leetcode-cn.com/problems/profitable-schemes/)（2021/6/9）三维的背包问题，现在会写了
     * [312. 戳气球](https://leetcode-cn.com/problems/burst-balloons/)（2021/6/9）区间dp
+    * [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/)（2021/6/16）区间dp..没想到答案可以直接return true
     
 * 树
 
