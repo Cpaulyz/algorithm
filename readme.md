@@ -283,6 +283,7 @@
     * [1707. 与数组中元素的最大异或值](https://leetcode-cn.com/problems/maximum-xor-with-an-element-from-array/)(2021/5/23)hard，字典树+懒加载思想
     * [461. 汉明距离](https://leetcode-cn.com/problems/hamming-distance/)（2021/5/27）异或遍历，水题
     * [477. 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/)（2021/5/29）位运算，标答用了乘法原理更好
+    * [65. 有效数字](https://leetcode-cn.com/problems/valid-number/)（2021/6/17）编译原理的状态机
 
 ### 岛屿系列问题
 
