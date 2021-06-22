@@ -159,6 +159,7 @@
     * [12. 整数转罗马数字](https://leetcode-cn.com/problems/integer-to-roman/)（2021/5/14）难度不大
     * [13. 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer/)（2021/5/15）循环判断即可
     * [1190. 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)（2021/5/26）括号处理+模拟
+    * [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)（2021/6/22）全排列、回溯
     
 * 数据结构
 
