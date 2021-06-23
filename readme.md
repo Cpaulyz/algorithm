@@ -286,6 +286,7 @@
     * [477. 汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/)（2021/5/29）位运算，标答用了乘法原理更好
     * [65. 有效数字](https://leetcode-cn.com/problems/valid-number/)（2021/6/17）编译原理的状态机
     * [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)（2021/6/23）位运算，O(1的个数)
+    * [401. 二进制手表](https://leetcode-cn.com/problems/binary-watch/)（2021/6/23）本质上就是算1
 
 ### 岛屿系列问题
 
