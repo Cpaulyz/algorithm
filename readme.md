@@ -120,6 +120,8 @@
     
     * [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)（2021/6/13）二分查找
     
+    * [149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)（2021/6/24）gcd+哈希表
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
