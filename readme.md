@@ -252,10 +252,11 @@
     * [463. 岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/)(2021/3/1) 遍历，也可以DFS、BFS
     * [695. 岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/)（2021/3/1）DFS
     * [827. 最大人工岛](https://leetcode-cn.com/problems/making-a-large-island/)（2021/3/3）做了两种解法
-		* 笨方法，并查集+遍历
+    	* 笨方法，并查集+遍历
     	* DFS+记录
     * [815. 公交路线](https://leetcode-cn.com/problems/bus-routes/)（2021/3/7）BFS
-    
+    * [752. 打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/)（2021/6/25）双向BFS
+
     > 在 LeetCode 中，「岛屿问题」是一个系列系列问题，BFS、DFS是统一的解决方法，但是也可以用不同的方法解决
 
 * 回溯
