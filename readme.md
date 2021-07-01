@@ -259,6 +259,7 @@
     * [773. 滑动谜题](https://leetcode-cn.com/problems/sliding-puzzle/)（2021/6/26）BFS，还没752难
     * [909. 蛇梯棋](https://leetcode-cn.com/problems/snakes-and-ladders/)（2021/6/27）BFS，在gone上面踩坑踩了好久。。
     * [815. 公交路线](https://leetcode-cn.com/problems/bus-routes/)（2021/6/28）二刷，双向BFS+两个map优化
+    * [LCP 07. 传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/)（2021/7/1）水水的bfs
 
     > 在 LeetCode 中，「岛屿问题」是一个系列系列问题，BFS、DFS是统一的解决方法，但是也可以用不同的方法解决
 
