@@ -122,6 +122,8 @@
     
     * [149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)（2021/6/24）gcd+哈希表
     
+    * [1833. 雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)（2021/7/2）排序就完事了
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
