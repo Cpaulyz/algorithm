@@ -124,6 +124,8 @@
     
     * [1833. 雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)（2021/7/2）排序就完事了
     
+    * [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)（2021/7/3）排序
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
