@@ -128,6 +128,8 @@
     
     * [645. 错误的集合](https://leetcode-cn.com/problems/set-mismatch/)（2021/7/4）普普通通的哈希
     
+    * [1418. 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/)（2021/7/6）一顿哈希+排序模拟
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
