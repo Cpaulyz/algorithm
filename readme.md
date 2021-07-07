@@ -130,6 +130,8 @@
     
     * [1418. 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/)（2021/7/6）一顿哈希+排序模拟
     
+    * [1711. 大餐计数](https://leetcode-cn.com/problems/count-good-meals/)（2021/7/7）很暴力，哈希搜索
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
