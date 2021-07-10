@@ -12,7 +12,7 @@ using namespace std;
 #include <iostream>
 
 class Solution {
-public:
+hashc:
     int numSubarraysWithSum(vector<int>& nums, int goal) {
         unordered_map<int,int> preSum_cnt;
         preSum_cnt[0] = 1;
