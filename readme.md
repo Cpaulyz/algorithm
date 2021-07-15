@@ -136,6 +136,8 @@
     
     * [274. H 指数](https://leetcode-cn.com/problems/h-index/)（2021/7/11）排序，可以用计数排序优化
     
+    * [1846. 减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/)（2021/7/15）排序+贪心
+    
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
