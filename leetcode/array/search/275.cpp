@@ -1,6 +1,6 @@
-//
+// https://leetcode-cn.com/problems/h-index-ii/
 // Created by admin on 2021/7/12.
-//
+// 查找。。可以二分优化
 
 
 using namespace std;
