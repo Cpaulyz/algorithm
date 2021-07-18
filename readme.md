@@ -5,6 +5,7 @@
 * `/nowcoder`：https://www.nowcoder.com/ta/coding-interviews?page=1
 
 * 数组
+
     * [643. 子数组最大平均数I](https://leetcode-cn.com/problems/maximum-average-subarray-i/)（2021/2/4 ）：滑动窗口
 
     * [888. 公平的糖果棒交换](https://leetcode-cn.com/problems/fair-candy-swap/)（2021/2/1）：哈希搜索
@@ -64,86 +65,86 @@
     * [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)（2021/3/6）边界条件十分恶心的二分查找
 
     * [4. 寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/)（2021/3/12）遍历
-    
+
     * [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)（2021/3/12）双指针，两边往中间走
-    
+
     	* 移动矮的指针
-    
+
     		因为如果移动高指针，那么面积一定变小
-    
+
     * [59. 螺旋矩阵 II](https://leetcode-cn.com/problems/spiral-matrix-ii/)（2021/3/16）模拟循环
-    
+
     * [42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)（2021/3/16）双指针解法，左右往中间缩，总是移动较矮的指针
-    
+
     * [73. 矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)（2021/3/21）复用原数组
-    
+
     * [41. 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)（2021/3/21）原数组置换，练习降低空间、时间复杂度的好题！
-    
+
     * [48. 旋转图像](https://leetcode-cn.com/problems/rotate-image/)（2021/3/22）变着花样遍历
-    
+
     * [74. 搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)（2021/3/30）两次二分查找
-    
+
     * [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)（2021/4/5）逆序遍历
-    
+
     * [80. 删除有序数组中的重复项 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)（2021/4/6）快慢双指针
-    
+
     * [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)（2021/4/8）二分查找变种
-    
+
     * [81. 搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/)（2021/4/8）麻烦的二分查找
-    
+
     * [154. 寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)（2021/4/9）二分查找变式
-    
+
     * [220. 存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/)（2021/4/17）滑动窗口，精髓在于桶排序，极妙！
-    
+
     * [26. 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)（2021/4/18）快慢双指针
-    
+
     * [27. 移除元素](https://leetcode-cn.com/problems/remove-element/)（2021/4/20）快慢双指针
-    
+
     * [363. 矩形区域不超过 K 的最大数值和](https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/)（2021/4/22）固定左右区间，以区间内的rowSum，计算最大小于k的连续和
-    
+
     * [1011. 在 D 天内送达包裹的能力](https://leetcode-cn.com/problems/capacity-to-ship-packages-within-d-days/)（2021/4/27）直接用了遍历搜索，可以AC，可以二分查找优化
-    
+
     * [633. 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/)（2021/4/29）
-    
+
     	* 暴力sqrt
     	* [双指针](https://leetcode-cn.com/problems/sum-of-square-numbers/solution/shuang-zhi-zhen-de-ben-zhi-er-wei-ju-zhe-ebn3/)
     	
     * [690. 员工的重要性](https://leetcode-cn.com/problems/employee-importance/)（2021/5/4）BFS
-    
+
     * [554. 砖墙](https://leetcode-cn.com/problems/brick-wall/)（2021/5/4）哈希表，时空O(mn)
-    
+
     * [1074. 元素和为目标值的子矩阵数量](https://leetcode-cn.com/problems/number-of-submatrices-that-sum-to-target/)（2021/5/29）前缀和+哈希表，用边限制，可参考363，好题！！
-    
+
     * [1744. 你能在你最喜欢的那天吃到你最喜欢的糖果吗？](https://leetcode-cn.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/)(2021/6/1)前缀和
-    
+
     * [523. 连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/)（2021/6/2）前缀和+哈希表
-    
+
     * [278. 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)（2021/6/13）二分查找
-    
+
     * [149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)（2021/6/24）gcd+哈希表
-    
+
     * [1833. 雪糕的最大数量](https://leetcode-cn.com/problems/maximum-ice-cream-bars/)（2021/7/2）排序就完事了
-    
+
     * [451. 根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/)（2021/7/3）排序
-    
+
     * [645. 错误的集合](https://leetcode-cn.com/problems/set-mismatch/)（2021/7/4）普普通通的哈希
-    
+
     * [1418. 点菜展示表](https://leetcode-cn.com/problems/display-table-of-food-orders-in-a-restaurant/)（2021/7/6）一顿哈希+排序模拟
-    
+
     * [1711. 大餐计数](https://leetcode-cn.com/problems/count-good-meals/)（2021/7/7）很暴力，哈希搜索
-    
+
     * [930. 和相同的二元子数组](https://leetcode-cn.com/problems/binary-subarrays-with-sum/)(2021/7/8)前缀和+哈希表
-    
+
     * [274. H 指数](https://leetcode-cn.com/problems/h-index/)（2021/7/11）排序，可以用计数排序优化
-    
+
     * [1846. 减小和重新排列数组后的最大元素](https://leetcode-cn.com/problems/maximum-element-after-decreasing-and-rearranging/)（2021/7/15）排序+贪心
-    
+
     * [剑指 Offer 53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)（2021/7/16）二分
-    
+
     * [剑指 Offer 42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)（2021/7/17）遍历+前缀和
-    
+
     * [275. H 指数 II](https://leetcode-cn.com/problems/h-index-ii/)（2021/7/17）查找。。二分优化
-    
+
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
@@ -185,6 +186,7 @@
     * [1190. 反转每对括号间的子串](https://leetcode-cn.com/problems/reverse-substrings-between-each-pair-of-parentheses/)（2021/5/26）括号处理+模拟
     * [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)（2021/6/22）全排列、回溯
     * [726. 原子的数量](https://leetcode-cn.com/problems/number-of-atoms/)（2021/7/5）栈+哈希表
+    * [面试题 10.02. 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/)（2021/7/18）计数排序
     
 * 数据结构
 
