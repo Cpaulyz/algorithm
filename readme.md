@@ -279,6 +279,7 @@
     * [872. 叶子相似的树](https://leetcode-cn.com/problems/leaf-similar-trees/)(2021/5/10)顺序找叶子节点，dfs
     * [993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/)（2021/5/17）BFS
     * [1600. 皇位继承顺序](https://leetcode-cn.com/problems/throne-inheritance/)（2021/6/23）n叉树+前序遍历
+    * [671. 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)（2021/7/27）DFS
     
 * 图
 
