@@ -280,6 +280,7 @@
     * [993. 二叉树的堂兄弟节点](https://leetcode-cn.com/problems/cousins-in-binary-tree/)（2021/5/17）BFS
     * [1600. 皇位继承顺序](https://leetcode-cn.com/problems/throne-inheritance/)（2021/6/23）n叉树+前序遍历
     * [671. 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)（2021/7/27）DFS
+    * [863. 二叉树中所有距离为 K 的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/)（2021/7/29）DFS建图，BFS搜索
     
 * 图
 
