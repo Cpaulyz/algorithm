@@ -282,6 +282,7 @@
     * [671. 二叉树中第二小的节点](https://leetcode-cn.com/problems/second-minimum-node-in-a-binary-tree/)（2021/7/27）DFS
     * [863. 二叉树中所有距离为 K 的结点](https://leetcode-cn.com/problems/all-nodes-distance-k-in-binary-tree/)（2021/7/29）DFS建图，BFS搜索
     * [1104. 二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)（2021/7/29）数学
+    * [987. 二叉树的垂序遍历](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree/)（2021/7/31）DFS建表，排序
     
 * 图
 
