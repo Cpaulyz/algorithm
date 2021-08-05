@@ -303,6 +303,7 @@
     * [815. 公交路线](https://leetcode-cn.com/problems/bus-routes/)（2021/6/28）二刷，双向BFS+两个map优化
     * [LCP 07. 传递信息](https://leetcode-cn.com/problems/chuan-di-xin-xi/)（2021/7/1）水水的bfs
     * [743. 网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)（2021/8/3）dijkstra
+    * [802. 找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/)（2021/8/5）拓扑排序，此外还有[三色标记法](https://leetcode-cn.com/problems/find-eventual-safe-states/solution/zhao-dao-zui-zhong-de-an-quan-zhuang-tai-yzfz/)，好题！！
 
     > 在 LeetCode 中，「岛屿问题」是一个系列系列问题，BFS、DFS是统一的解决方法，但是也可以用不同的方法解决
 
