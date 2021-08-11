@@ -266,6 +266,7 @@
     * [877. 石子游戏](https://leetcode-cn.com/problems/stone-game/)（2021/6/16）区间dp..没想到答案可以直接return true
     * [1713. 得到子序列的最少操作次数](https://leetcode-cn.com/problems/minimum-operations-to-make-a-subsequence/)（2021/7/26）先转为最长公共子序列问题，再转为最长上升子序列问题，十分有意思！
     * [313. 超级丑数](https://leetcode-cn.com/problems/super-ugly-number/)（2021/8/9）多路合并dp
+    * [446. 等差数列划分 II - 子序列](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/)（2021/8/11）`dp[i][j]` 表示以第i个结尾，差为j的等差个数
     
 * 树
 
