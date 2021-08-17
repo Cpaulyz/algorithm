@@ -200,6 +200,7 @@
     * [剑指 Offer 38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)（2021/6/22）全排列、回溯
     * [726. 原子的数量](https://leetcode-cn.com/problems/number-of-atoms/)（2021/7/5）栈+哈希表
     * [面试题 10.02. 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/)（2021/7/18）计数排序
+    * [551. 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/)（2021/8/17）简单遍历即可
     
 * 数据结构
 
