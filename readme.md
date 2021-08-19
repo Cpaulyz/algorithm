@@ -201,6 +201,7 @@
     * [726. 原子的数量](https://leetcode-cn.com/problems/number-of-atoms/)（2021/7/5）栈+哈希表
     * [面试题 10.02. 变位词组](https://leetcode-cn.com/problems/group-anagrams-lcci/)（2021/7/18）计数排序
     * [551. 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/)（2021/8/17）简单遍历即可
+    * [345. 反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)（2021/8/19）原地修改，双指针双向遍历
     
 * 数据结构
 
