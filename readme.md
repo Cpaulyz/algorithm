@@ -318,6 +318,7 @@
     * [802. 找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/)（2021/8/5）拓扑排序，此外还有[三色标记法](https://leetcode-cn.com/problems/find-eventual-safe-states/solution/zhao-dao-zui-zhong-de-an-quan-zhuang-tai-yzfz/)，好题！！
     * [847. 访问所有节点的最短路径](https://leetcode-cn.com/problems/shortest-path-visiting-all-nodes/)（2021/8/6）难！状态压缩+BFS，状态压缩很难想
     * [789. 逃脱阻碍者](https://leetcode-cn.com/problems/escape-the-ghosts/)（2021/8/22）曼哈顿距离
+    * [797. 所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/)（2021/8/25）DFS暴力搜索
 
     > 在 LeetCode 中，「岛屿问题」是一个系列系列问题，BFS、DFS是统一的解决方法，但是也可以用不同的方法解决
 
