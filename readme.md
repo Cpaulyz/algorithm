@@ -238,6 +238,7 @@
     * [85. 最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/)（2021/2/25）单调栈+哨兵，很有意思，复用84题的代码
     * [503. 下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/)（2021/3/6）单调栈+两轮循环
     * [456. 132 模式](https://leetcode-cn.com/problems/132-pattern/)（2021/3/25）单调栈，有点难，注意理解！！！
+        * [881. 救生艇](https://leetcode-cn.com/problems/boats-to-save-people/)（2021/8/26）排序+双指针+贪心
     
 * 动态规划
 
