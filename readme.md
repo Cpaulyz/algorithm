@@ -207,6 +207,7 @@
     * [551. 学生出勤记录 I](https://leetcode-cn.com/problems/student-attendance-record-i/)（2021/8/17）简单遍历即可
     * [345. 反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/)（2021/8/19）原地修改，双指针双向遍历
     * [443. 压缩字符串](https://leetcode-cn.com/problems/string-compression/)（2021/8/21）快慢双指针
+    * [165. 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/)（2021/9/1）遍历比较
     
 * 数据结构
 
