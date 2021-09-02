@@ -172,6 +172,7 @@
     * [61. 旋转链表](https://leetcode-cn.com/problems/rotate-list/)（2021/3/28）1.5次遍历
     * [203. 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements/)（2021/6/5）遍历即可
     * [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)（2021/7/22）加个哈希表就完事了
+    * [剑指 Offer 22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)（2021/9/2）快慢双指针
 
 * 并查集
 
