@@ -161,6 +161,8 @@
 
     * [528. 按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/)（2021/8/30）其实用的是表驱动的思想，在实现上是前缀和+二分查找，涉及到随机数生成和二分查找轮子
 
+    * [704. 二分查找](https://leetcode-cn.com/problems/binary-search/)（2021/9/6）二分模板题
+
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
