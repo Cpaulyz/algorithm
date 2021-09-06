@@ -363,6 +363,7 @@
     * [剑指 Offer 15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)（2021/6/23）位运算，O(1的个数)
     * [401. 二进制手表](https://leetcode-cn.com/problems/binary-watch/)（2021/6/23）本质上就是算1
     * [168. Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/)（2021/6/29）1开始的26进制
+    * [470. 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/)（2021/9/6）7进制
 
 ### 岛屿系列问题
 
