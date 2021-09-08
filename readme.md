@@ -233,6 +233,9 @@
     * [981. 基于时间的键值存储](https://leetcode-cn.com/problems/time-based-key-value-store/)（2021/7/10）哈希套数组+二分查找
     * [295. 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)（2021/8/27）双优先队列
     * [面试题 17.14. 最小K个数](https://leetcode-cn.com/problems/smallest-k-lcci/)（2021/9/3）堆
+    * [502. IPO](https://leetcode-cn.com/problems/ipo/)（2021/9/8）
+      * dp+贪心，超时✖️
+      * 优先队列+贪心，☑️
     
 * 贪心
 
