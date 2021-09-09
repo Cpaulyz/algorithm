@@ -314,6 +314,7 @@
     * [1104. 二叉树寻路](https://leetcode-cn.com/problems/path-in-zigzag-labelled-binary-tree/)（2021/7/29）数学
     * [987. 二叉树的垂序遍历](https://leetcode-cn.com/problems/vertical-order-traversal-of-a-binary-tree/)（2021/7/31）DFS建表，排序
     * [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)（2021/9/9）自底向上递归
+    * [543. 二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/)（2021/9/9）自底向上递归
     
 * 图
 
