@@ -163,6 +163,8 @@
 
     * [704. 二分查找](https://leetcode-cn.com/problems/binary-search/)（2021/9/6）二分模板题
 
+    * [1894. 找到需要补充粉笔的学生编号](https://leetcode-cn.com/problems/find-the-student-that-will-replace-the-chalk/)（2021/9/10）前缀和+二分
+
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
