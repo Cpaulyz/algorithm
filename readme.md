@@ -291,6 +291,7 @@
     * [516. 最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence/)（2021/8/12）子序列问题dp
     * [576. 出界的路径数](https://leetcode-cn.com/problems/out-of-boundary-paths/)（2021/8/15）Dp+空间优化
     * [552. 学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/)（2021/8/18）Dp+空间优化
+    * [935. 骑士拨号器](https://leetcode-cn.com/problems/knight-dialer/)（2021/9/10）dp，可快速幂优化
     
 * 树
 
