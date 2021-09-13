@@ -297,6 +297,7 @@
     * [552. 学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/)（2021/8/18）Dp+空间优化
     * [935. 骑士拨号器](https://leetcode-cn.com/problems/knight-dialer/)（2021/9/10）dp，可快速幂优化
     * [600. 不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/)（2021/9/11）数位dp模板题
+    * [329. 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)（2021/9/13）类似576，记忆化搜索dp
     
 * 树
 
