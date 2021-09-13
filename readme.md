@@ -167,6 +167,8 @@
 
     * [678. 有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/)（2021/9/12）双向遍历模拟栈
 
+    * [447. 回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/)（2021/9/13）暴力枚举+哈希表
+
 * 链表
 
     * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)（2021/3/1）使用**快慢双指针**，O(1)空间判断链表是否有环
