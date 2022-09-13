@@ -260,6 +260,7 @@
     * [456. 132 模式](https://leetcode-cn.com/problems/132-pattern/)（2021/3/25）单调栈，有点难，注意理解！！！
     * [881. 救生艇](https://leetcode-cn.com/problems/boats-to-save-people/)（2021/8/26）排序+双指针+贪心
     * [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)（2021/9/7）一次遍历贪心
+    * [670. 最大交换](https://leetcode.cn/problems/maximum-swap/)（2022/9/13）遍历贪心
     
 * 动态规划
 
