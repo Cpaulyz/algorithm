@@ -358,6 +358,7 @@
 	* [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii/)（2021/3/22）排序+回溯，因为原数组有重复，需要排序后判断是否可进入回溯
 	* [90. 子集 II](https://leetcode-cn.com/problems/subsets-ii/)（2021/3/31）回溯，重点在于去重
 	* [526. 优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/)（2021/8/16）观察到题目给的范围比较小（15），直接暴力回溯即可
+	* [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)（2022/12/13）回溯模板题
 	
 * 位运算
 
