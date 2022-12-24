@@ -261,6 +261,7 @@
     * [881. 救生艇](https://leetcode-cn.com/problems/boats-to-save-people/)（2021/8/26）排序+双指针+贪心
     * [1221. 分割平衡字符串](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)（2021/9/7）一次遍历贪心
     * [670. 最大交换](https://leetcode.cn/problems/maximum-swap/)（2022/9/13）遍历贪心
+    * [1754. 构造字典序最大的合并字符串](https://leetcode.cn/problems/largest-merge-of-two-strings/)（2022/12/24）贪心，主要学到的是字符串比较是字典序
     
 * 动态规划
 
